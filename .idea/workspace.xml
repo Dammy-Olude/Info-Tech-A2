@@ -4,16 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d8c0a54-f6ae-4aa4-9319-0295fee73ed8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Social Info And Tech Lab assignment 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_queue.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my_stack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search.py" afterDir="false" />
+    <list default="true" id="5d8c0a54-f6ae-4aa4-9319-0295fee73ed8" name="Changes" comment="Done BFS and DFS needs validity">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +23,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Dammy-Olude"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Dammy-Olude/Info-Tech-A2.git",
+    "accountId": "2de12792-5e29-45a9-bae3-f9ab1f5f5c97"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 3
 }]]></component>
@@ -216,15 +221,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757693961721</updated>
-      <workItem from="1757693962760" duration="14920000" />
+      <workItem from="1757693962760" duration="16264000" />
     </task>
+    <task id="LOCAL-00001" summary="Done BFS and DFS needs validity">
+      <option name="closed" value="true" />
+      <created>1757827410698</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1757827410698</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Done BFS and DFS needs validity" />
+    <option name="LAST_COMMIT_MESSAGE" value="Done BFS and DFS needs validity" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Social_Info_And_Tech_Lab_assignment_2$test.coverage" NAME="test Coverage Results" MODIFIED="1757827021854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/Social_Info_And_Tech_Lab_assignment_2$search.coverage" NAME="search Coverage Results" MODIFIED="1757827219696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Social_Info_And_Tech_Lab_assignment_2$search.coverage" NAME="search Coverage Results" MODIFIED="1757901382391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

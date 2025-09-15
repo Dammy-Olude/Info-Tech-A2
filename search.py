@@ -25,12 +25,7 @@ def BFS(graph, root):
                     Nmap.add_edge(temp,temp2) #this add the edge to the dfs spanning tree
                     q.push(temp2) #adds the neighbour into the queue
 
-
-
-    print("BFS visited order starting from", root, ":", visited)
     return Nmap, visited
-
-
 
 def DFS(graph, root):
     """
@@ -38,8 +33,6 @@ def DFS(graph, root):
 	from root node to output a spanning subgraph of the
 	original graph, the sequence of visited nodes.
     """
-
-
     #Your code here
 
     Nmap = graph
@@ -57,11 +50,7 @@ def DFS(graph, root):
                     Nmap.add_edge(temp, temp2)  # this add the edge to the dfs spanning tree
                     s.push(temp2)  # adds the neighbour into the stack
 
-    print("DFS visited order starting from", root, ":", visited)
     return Nmap, visited
-
-
-
 
 def show_graph(graph):
     plt.subplot(111)
